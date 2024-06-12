@@ -3,7 +3,8 @@ You've found a wandering c++ developer!
 Check out my personal collection in monorepo format here:
 
 <a href="https://github.com/Andersama-Library/open-source">
- <img style="float: right" alt="logo" src="https://github.com/Andersama/Andersama/assets/25020235/9a783e1b-9039-4b4e-b9e4-073d3344102a">
+ <img style="float: right" alt="logo" src="https://github.com/Andersama-Library/open-source/assets/25020235/7de0b5da-9377-4109-81c4-9eef31866c3f">
+ <!--<img style="float: right" alt="logo" src="https://github.com/Andersama/Andersama/assets/25020235/9a783e1b-9039-4b4e-b9e4-073d3344102a">-->
 </a>
 <!--<img alt="logo" src="https://github.com/Andersama-Library/licensed/assets/25020235/ca26c575-4cfe-4817-9a22-e0f6fe7de9d5" width="40%" style="float: right"></img>-->
 

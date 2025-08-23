@@ -1,4 +1,4 @@
-You've found a wandering c++ developer!
+Need a C++ Developer or useful C++ libraries?
 =======================================
 Check out my personal collection in monorepo format here:
 
@@ -39,5 +39,3 @@ A number of these are being updated and moved into [https://github.com/Andersama
 
 ## Sponsor
 Consider sponsoring for access to my private libraries and to keep me going. I'm currently moving my code over to [https://github.com/Andersama-Library/open-source](https://github.com/Andersama-Library/open-source). 
-
-I'm aiming to build a large sponsorware repository. When I meet different sponsorship amounts per month I'll move contents from my sponsorware repository into the open source one. Feel free to contact me for library ideas you'd like to see on the [dicussions tab](https://github.com/Andersama-Library/open-source/discussions)! If you're the first person to suggest an idea and I think it deserves to be sponsorware I'll make sure you have access to it when I start working on it!

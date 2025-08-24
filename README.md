@@ -1,4 +1,4 @@
-Need a C++ Developer or useful C++ libraries?
+Need a C++ Developer?
 =======================================
 Check out my personal collection in monorepo format here:
 
@@ -20,7 +20,10 @@ This is just a landing page on my profile, click the image or one of the links b
 
 ## C++ Single Header Files and Libraries
 * [C++ Branch](https://github.com/Andersama-Library/open-source/tree/c%2B%2B) - A collection of some of my personal c++ libraries
-  * [forceinline](https://github.com/Andersama-Library/open-source/tree/c%2B%2B/forceinline) - A header for a macro to force inline functions `always_force_inline`
+  * [always_force_inline](https://github.com/Andersama-Library/open-source/tree/c%2B%2B/always_force_inline) - A header for a macro to force inline functions `always_force_inline`
+  * [always_flatten_calls](https://github.com/Andersama-Library/open-source/tree/c%2B%2B/always_force_inline) - A macro to hint to the compiler to flatten the body of a function `always_flatten_calls`
+  * [always_inline_call](https://github.com/Andersama-Library/open-source/tree/c%2B%2B/always_inline_call) - A macro to hint to the compile to inline a statement `always_inline_call`
+  * [never_inline](https://github.com/Andersama-Library/open-source/blob/c%2B%2B/never_inline/never_inline.h) - A macro to hint to the compile to leave the function call as is `never_inline`
   * [headers](https://github.com/Andersama-Library/open-source/tree/c%2B%2B/headers) - A set of headers that groups common standard c++ headers together
   * [simple_benchmark](https://github.com/Andersama-Library/open-source/tree/c%2B%2B/simple_benchmark) - A single header for benchmarking, even smaller than nanobench!
   * [stack_vector](https://github.com/Andersama-Library/open-source/tree/c%2B%2B/stack_vector) - A header for a vector which lives on the stack
